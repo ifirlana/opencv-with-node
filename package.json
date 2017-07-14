@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ifirlana/opencv-with-node/issues"
   },
-  "homepage": "https://github.com/ifirlana/opencv-with-node#readme"
+  "homepage": "https://github.com/ifirlana/opencv-with-node#readme",
+  "dependencies": {
+    "opencv": "^6.0.0"
+  }
 }
