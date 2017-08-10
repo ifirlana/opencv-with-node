@@ -1,7 +1,7 @@
 {
   "name": "opencv-with-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "microservis face detection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/ifirlana/opencv-with-node.git"
   },
-  "author": "",
+  "keywords": [
+    "opencv",
+    "express"
+  ],
+  "author": "ikhlas firlana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ifirlana/opencv-with-node/issues"
