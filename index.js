@@ -1,3 +1,3 @@
-/**
- * Created by ikhlasfirlana on 8/10/17.
- */
+var ktp = require("./lib/ktp-detection");
+var start = new ktp();
+start.detect("./samples/people.jpg", "./result/people-detect.png");
