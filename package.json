@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ifirlana/opencv-with-node#readme",
   "dependencies": {
+    "express": "^4.15.4",
     "opencv": "^6.0.0"
   }
 }
